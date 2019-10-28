@@ -1,7 +1,7 @@
 import md5 from './md5.min.js'
 
-const appid = '20181202000242075'
-const key = '2P34mzfveazU24fs6lyz'
+const appid = ''
+const key = ''
 
 function translate(q, {
   from = 'auto',
